@@ -10,6 +10,9 @@ val x = 1
     val list = listOf("Hello")
     println(list)
 
+    val string = arrayOf("Have a nice day!")
+    string.forEach { println(it) }
+
 
 
 
