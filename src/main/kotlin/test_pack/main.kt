@@ -7,6 +7,9 @@ val x = 1
 
     println(x + y)
 
+    val list = listOf("Hello")
+    println(list)
+
 
 
 
