@@ -13,6 +13,11 @@ val x = 1
     val string = arrayOf("Have a nice day!")
     string.forEach { println(it) }
 
+    val p = {z:Int,p:Int -> z + p}
+   println(p.invoke(7,8))
+
+
+
 
 
 
